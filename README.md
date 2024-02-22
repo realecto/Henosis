@@ -9,6 +9,7 @@ yarn dev
 # or
 pnpm dev
 ```
+NOTE: THIS PROJECT WAS CREATED WITH A LOCAL VERSION CONTROL AND PUSHED TO THIS ACCOUNT AT ONCE.
 
 # Structure Overview
 - Todo component take in a uid that represents a todo list, if no uid is found then render
